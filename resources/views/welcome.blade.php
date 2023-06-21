@@ -393,7 +393,7 @@
 <body class="antialiased">
    <div class="relative flex items-top justify-center min-h-screen bg-gray-100 dark:bg-gray-900 sm:items-center py-4 sm:pt-0">
    
-   <a class="btn btn-primary" href="/group-files">Click To Group Files</button>
+   <a class="btn btn-primary" href="/group-files">Click To Group Files</a>
 
 </div>
 </body>
